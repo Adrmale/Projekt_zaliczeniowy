@@ -1,4 +1,4 @@
-# 8. NaukaPisania 
+# 7. Ćwiczenie pisania na klawiaturze  
 
 ## Spis treści
 - [Opis Projektu]
