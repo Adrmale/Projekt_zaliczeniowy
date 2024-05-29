@@ -1,4 +1,4 @@
-# 1. NaukaPisania 
+# 8. NaukaPisania 
 
 ## Spis treści
 - [Opis Projektu]
